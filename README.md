@@ -1,2 +1,2 @@
 # fadhiilrachman.github.io
-React.jsfor fadilus.com
+React.js for fadilus.com
